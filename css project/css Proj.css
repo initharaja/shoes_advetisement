@@ -1,0 +1,434 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+.container{
+    background-image: url(8370c48a-e27f-46b4-a54f-70e25072666e.jpg);
+    background-blend-mode: multiply;
+    background-color: brown; 
+    height: 800px;
+    
+}
+
+.navbar{
+    list-style-type: none;
+    background-image: url(8370c48a-e27f-46b4-a54f-70e25072666e.jpg);
+    background-blend-mode: multiply;
+    background-color: brown; 
+    height: 2.50cm;
+    
+   
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+}
+/* .fat{
+   margin-top: 10px; */
+
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 13px;
+    color: white;
+    font-weight: bold;
+}
+
+p{
+   padding-right: 20px;
+   justify-content: space-evenly;
+   margin-right: 20px;
+   float: right;
+   color: white;
+   font-size: 25px;
+   padding: 20px;
+   
+}
+.para{
+    font-family:'Signika', sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+    color: white;
+    
+}
+.our{
+   font-size: 20px;
+   padding-top: 150px;
+}
+.best{
+   font-size: 50px;
+}
+.view{
+    background-color: white;
+    width: 80px;
+}
+.shoes{
+    float: right;
+    padding-right: 10%;
+}
+.ios{
+    font-size: 17px;
+    color: darkslategray;
+    margin-top: 80px;
+    margin-left: 5%;
+    font-weight: bold;
+    font-family:'Signika', sans-serif;
+    
+}
+.Choose{
+    font-size: 53px;
+    padding-left: 4%;
+    line-height: 0.2rem;
+    font-family:'Signika', sans-serif;
+    margin-top: 40px;
+}
+.trio{
+    margin-top: 80px;
+}
+.three{
+    font-family:'Signika', sans-serif;
+    font-size: 20px;
+    display: flex;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.three1{
+    padding-left: 55px;
+}
+.three2{
+    padding-left: 387px;
+}
+.three3{
+    padding-left: 270px;
+}  
+/* .container1{
+    background-image: url(8370c48a-e27f-46b4-a54f-70e25072666e.jpg);
+    background-color: rgba(165, 42, 42, 0.774);
+    height: 450px;
+    margin-top: 70px;
+}   */
+.back{
+    display: flex;
+    font-weight: bold;
+    font-family:'Signika', sans-serif;
+    padding-top: 50px;
+    background-image: url(8370c48a-e27f-46b4-a54f-70e25072666e.jpg);
+    background-blend-mode: multiply;
+    background-color: brown;
+    margin-top: 70px;
+    height: 400px;
+}
+.pic2{
+    position: relative;
+    padding-left: 705px;
+margin-top: -416px;    
+}
+.desc1{
+    
+}
+.one{
+    padding-left: 25%;
+    font-size: 20px;
+    padding-top: 120px;
+    
+}
+.sty{
+    font-size: 50px;
+    padding-left: 25%;
+    line-height: 20px;
+                                              
+}
+.sport{
+    display: flex;
+    padding-left: 18px;
+    
+}
+.sport1{
+    font-size: 20px;
+    padding-left: 120px;
+    padding-top: 7%;
+}
+.sport2{
+    font-size: 18px;
+    padding-left: 28px;
+    padding-top: 7%;
+}
+.read{
+    font-size: 18px;
+    padding-left: 10px;
+    
+}
+.Ea{
+    padding-left: 50%;
+    font-size: 18px;
+}
+
+.source img{
+    display: inline;
+    margin-left: 140px;
+    opacity: 0.2;
+    padding-top: 70px;
+}
+.container2{
+    background-color: rgb(230, 236, 240);
+    margin-top: 80px;
+    height: 950px;
+}
+.brand{
+    font-weight: bold;
+    font-family:'Signika', sans-serif;
+}
+.about{
+    font-size: 15px;
+    padding-top: 90px;
+    padding-left: 20px;
+}
+.blog{
+    font-size: 60px;
+    padding-left: 20px;
+}
+.june{
+    margin-top: 50px;
+    
+}
+.june1{
+    color: black;
+    transform: rotate(90deg) translate(100%, 0);
+    transform-origin: top right;
+
+}
+.june2{
+    color: black;
+    margin-left: 45px;
+}
+.june3{
+    color: black;
+    margin-left: 45px;
+}
+.jully{
+    transform: rotate(-90deg); 
+    color: black;
+    font-weight: bold;
+    
+}
+.jully1{
+    transform: rotate(-90deg);
+    color: black;
+    font-weight: bold;
+    
+}
+.jully2{
+    transform: rotate(-90deg);
+    color: black;
+    font-weight: bold;
+}
+.para1{
+    display: flex;
+    font-family:'Signika', sans-serif;
+}
+.part1{
+    margin-left: 40px;
+
+}
+.part2{
+    margin-left: 100px;
+}
+.part3{
+    margin-left: 100px;
+}
+.Better{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 35px;
+}
+.Eu{
+   font-size: 20px;
+   margin-top: 20px;
+   color: rgba(0, 0, 0, 0.836);
+}
+.more{
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: rgba(0, 0, 0, 0.877);
+}
+.wsws{
+    display: flex;
+    font-family:'Signika', sans-serif;
+    margin-top: 100px;
+}
+.disk{
+   padding-left: 30px;
+}
+.shop{
+   padding-left: 110px;
+   padding-top: 100px;
+}
+.vity{
+   padding-left: 110px;
+}
+.so{
+    padding-left: 110px;
+    padding-top: 100px;
+}
+.world{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.vis{
+    font-size: 17px;
+    color: gray;
+}
+.second{
+    display: flex;
+    margin-top: 60px;
+    padding-top: 90px;
+    padding-bottom: 70px;
+    background-image: url(8370c48a-e27f-46b4-a54f-70e25072666e.jpg);
+    background-blend-mode: multiply;
+    background-color: brown;
+}
+.second2{
+    color: white;
+    font-weight: bold;
+    padding-top: 150px;
+    padding-right: 200px;
+    font-family:'Signika', sans-serif;
+}
+.zero{
+    font-size: 20px;
+    padding-left: 35px;
+}
+.zero1{
+    font-size: 50px;
+    padding-left: 30px;
+}
+.zero2{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: normal;
+}
+.zero3{
+    padding-left: 130px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+.zero4{
+   padding-left: 130px;
+    padding-top: 20px;
+    font-weight: normal;
+}
+.slap{
+    float: right;
+    padding-right: 20px;
+    padding-top: 80px;
+}
+.slap1{
+    padding-top: 200px;
+    font-family:'Signika', sans-serif;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.slap2{
+    font-size: 50px;
+}
+.slap3{
+    font-size: 18px;
+    padding-top: 40px;
+}
+.slap4{
+    background-color: black;
+    width: 500px;
+    height: 4px;
+    margin-top: 20px;
+    
+}
+.slap5{
+    background-color: black;
+    width: 460px;
+    height: 4px;
+    margin-top: 20px;
+}
+.slap6{
+    background-color: black;
+    width: 430px;
+    height: 4px;
+    margin-top: 20px;
+    
+}
+.slap7{
+    line-height: 1rem;
+    margin-top: -7px;
+}
+.haii{
+    padding-left: 349px;
+}
+.haii1{
+    padding-left: 325px;
+}
+.haii2{
+    padding-left: 335px;
+}
+.mass{
+    background-color: rgba(0, 0, 0, 0.822);
+    margin-top: 230px;
+    padding-bottom: 70px;
+}
+.black{
+    padding-left: 60px;
+    color: white;
+    padding-top: 80px;
+    font-family:'Signika', sans-serif;
+}
+.black1{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 90px;
+    margin-top: -43px;
+}
+.black2{
+   padding-top: 40px;
+   font-size: 55px;
+}
+.black3{
+    font-size: 55px;
+    
+}
+.black4{
+    color: darkgray;
+    padding-top: 30px;
+    font-size: 20px
+}
+/* .black5{
+    padding-top: 70px;
+    padding-left: 80px;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    
+} */
+
+input{
+    width: 14%;
+    padding: 20px;
+    margin-left: 10px;
+    font-size: 17px;
+    background-color: white;
+    
+    margin-top: 40px;
+}
+.copy{
+    
+}
+.copy1{
+    text-align: center;
+    background-color: black;
+    color:gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-family:'Signika', sans-serif;
+    font-size: 17px;
+}
